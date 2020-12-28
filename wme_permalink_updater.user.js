@@ -8,6 +8,7 @@
 // @run-at       document-end
 // @exclude      https://www.waze.com/*user/*editor/*
 // @downloadURL  https://gist.github.com/musa11971/0f439bb37479c6ed6e7b96c0cd001005/raw/wme_permalink_updater.user.js
+// @icon         https://gist.github.com/musa11971/0f439bb37479c6ed6e7b96c0cd001005/raw/icon.png
 // @grant        none
 // ==/UserScript==
 
