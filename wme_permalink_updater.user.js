@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WME - Permalink Updater
 // @namespace    https://github.com/musa11971
-// @version      0.1
+// @version      1.0
 // @description  Automatically update WME permalink in the browser's address bar.
 // @author       musa11971 (Waze: mewsa) - https://github.com/musa11971
 // @include      /^https:\/\/(www|beta)\.waze\.com\/(?!user\/)(.{2,6}\/)?editor.*$/
