@@ -22,6 +22,8 @@
             let fullURL = document.querySelector('a.permalink').href;
             let index = fullURL.indexOf('/editor');
             let path = fullURL.substr(index, fullURL.length);
+            path = path.replace(/&s=[0-9]*/, '');
+            path = path.replace(/&marker=(true|false)*/, '');
             window.history.replaceState('', '', path);
         }
     }, 1000);
